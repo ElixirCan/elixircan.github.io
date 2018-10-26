@@ -3,6 +3,7 @@ layout: post
 title: "Job Posting: Student Developer"
 date: 2018-10-26 14:00:00 -0600
 categories: canada update jobs
+excerpt: ElixirCan is looking for two university students to work with us part-time for the 2018-2019 school year.
 ---
 
 ElixirCan is looking for two university students to work with us part-time for the 2018-2019 school year.
